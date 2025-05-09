@@ -1,2 +1,1 @@
-# Escaner
-
+# Escaner simple de puertos abiertos
