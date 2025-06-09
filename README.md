@@ -1,1 +1,1 @@
-# Escaner simple de puertos abiertos
+# Escaner basico de puertos abiertos en python
